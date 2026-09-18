@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#06111c"/><stop offset=".55" stop-color="#0b1b2b"/><stop offset="1" stop-color="#02070c"/></linearGradient>
+  <linearGradient id="mount" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#1e3850"/><stop offset="1" stop-color="#07111c"/></linearGradient>
+  <filter id="glow"><feGaussianBlur stdDeviation="4"/></filter>
+</defs>
+<rect width="1200" height="260" rx="12" fill="url(#bg)"/>
+<circle cx="850" cy="58" r="17" fill="#e8edf0"/><circle cx="850" cy="58" r="27" fill="#b7d9ee" opacity=".12" filter="url(#glow)"/>
+<path d="M0 245 L145 185 L215 218 L330 120 L420 205 L535 95 L650 220 L760 145 L875 215 L1010 105 L1200 210 L1200 260 L0 260Z" fill="url(#mount)"/>
+<path d="M0 248 L165 205 L260 236 L380 160 L470 222 L570 145 L690 235 L805 180 L925 238 L1040 155 L1200 222 L1200 260 L0 260Z" fill="#050b12" opacity=".9"/>
+<path d="M1015 220 C1027 190 1050 178 1065 190 C1080 201 1093 216 1098 239 L1008 239 C1009 232 1011 226 1015 220Z" fill="#020509"/>
+<path d="M1055 187 L1062 165 L1069 187Z" fill="#020509"/>
+<path d="M1062 165 L1062 151" stroke="#020509" stroke-width="4"/>
+<rect x="26" y="38" width="3" height="72" rx="2" fill="#27e6b0"/>
+<text x="55" y="56" fill="#f4f7fa" font-family="Arial,Helvetica,sans-serif" font-size="25" font-weight="700" letter-spacing="9">VANSH CHOUDHARY</text>
+<text x="55" y="91" fill="#d6e0e8" font-family="Arial,Helvetica,sans-serif" font-size="13" letter-spacing="5">QUANTITATIVE DEVELOPER</text>
+<text x="55" y="114" fill="#d6e0e8" font-family="Arial,Helvetica,sans-serif" font-size="13" letter-spacing="5">SYSTEMS BUILDER</text>
+<text x="55" y="137" fill="#d6e0e8" font-family="Arial,Helvetica,sans-serif" font-size="13" letter-spacing="5">ALGORITHMIC TRADING</text>
+<text x="55" y="203" fill="#f0f5f8" font-family="Georgia,serif" font-size="14" font-style="italic">Research</text>
+<text x="136" y="203" fill="#26d7aa" font-family="Arial,sans-serif" font-size="18">→</text>
+<text x="166" y="203" fill="#f0f5f8" font-family="Georgia,serif" font-size="14" font-style="italic">Build</text>
+<text x="222" y="203" fill="#26d7aa" font-family="Arial,sans-serif" font-size="18">→</text>
+<text x="252" y="203" fill="#f0f5f8" font-family="Georgia,serif" font-size="14" font-style="italic">Test</text>
+<text x="305" y="203" fill="#26d7aa" font-family="Arial,sans-serif" font-size="18">→</text>
+<text x="336" y="203" fill="#f0f5f8" font-family="Georgia,serif" font-size="14" font-style="italic">Iterate</text>
+<text x="770" y="125" fill="#b9c8d3" font-family="Georgia,serif" font-size="13" font-style="italic">“Discipline compounds</text>
+<text x="770" y="145" fill="#b9c8d3" font-family="Georgia,serif" font-size="13" font-style="italic">what motivation starts.”</text>
+<rect x="1110" y="35" width="3" height="80" rx="2" fill="#27e6b0"/>
+<text x="1130" y="51" fill="#cbd7df" font-family="Arial,sans-serif" font-size="10" letter-spacing="3">FINANCE</text>
+<text x="1130" y="70" fill="#cbd7df" font-family="Arial,sans-serif" font-size="10" letter-spacing="3">TECHNOLOGY</text>
+<text x="1130" y="89" fill="#cbd7df" font-family="Arial,sans-serif" font-size="10" letter-spacing="3">AI SYSTEMS</text>
+<text x="1130" y="108" fill="#cbd7df" font-family="Arial,sans-serif" font-size="10" letter-spacing="3">BLOCKCHAIN</text>
+<text x="1130" y="127" fill="#cbd7df" font-family="Arial,sans-serif" font-size="10" letter-spacing="3">OPEN SOURCE</text>
+</svg>
