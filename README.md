@@ -207,31 +207,24 @@ Building in public.
 
 ## 📊 GitHub Activity
 
-<table width="100%">
-<tr>
-<td width="33%" align="center">
+<div align="center">
 
-### 196
+<!-- Contribution statistics / donut charts -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vansh-Quant&layout=donut&theme=dark&hide_border=true" height="180" alt="Top languages">
 
-**Total Contributions**
+<img src="https://github-readme-stats.vercel.app/api?username=Vansh-Quant&show_icons=true&theme=dark&hide_border=true&include_all_commits=true" height="180" alt="GitHub activity statistics">
 
-</td>
-<td width="33%" align="center">
+<br><br>
 
-### 2
+<!-- Contribution streak -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vansh-Quant&theme=dark&hide_border=true" width="80%" alt="GitHub contribution streak">
 
-**Current Streak**
+<br><br>
 
-</td>
-<td width="33%" align="center">
+<!-- Contribution snake -->
+<img src="https://raw.githubusercontent.com/Vansh-Quant/Vansh-Quant/output/github-contribution-grid-snake.svg" width="90%" alt="GitHub contribution snake">
 
-### 6
-
-**Longest Streak**
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
