@@ -207,6 +207,40 @@ Building in public.
 
 <div align="center">
 
+### 📊 GitHub Stats
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+### 196
+
+Total Contributions
+
+</td>
+<td align="center" width="33%">
+
+### 2
+
+Current Streak
+
+</td>
+<td align="center" width="33%">
+
+### 6
+
+Longest Streak
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
 ### Always Building.
 
 <sub>Quantitative systems • AI infrastructure • Software engineering</sub>
