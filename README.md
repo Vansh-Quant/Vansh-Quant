@@ -215,7 +215,7 @@ Building in public.
 </a>
 
 <a href="https://github.com/Vansh-Quant">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vansh-Quant&theme=github-compact&hide_border=true&area=true" width="90%" alt="GitHub activity graph">
+  <img src="https://raw.githubusercontent.com/Vansh-Quant/Vansh-Quant/activity-assets/activity-30d.svg" width="90%" alt="GitHub activity graph">
 </a>
 
 <br><br>
