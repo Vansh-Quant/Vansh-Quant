@@ -199,12 +199,16 @@ A multi-language development environment exploring compilers, runtimes, toolchai
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Vansh-Quant&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vansh-Quant&layout=compact&hide_border=true&theme=transparent" height="165" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vansh-Quant&theme=github_dark" width="95%" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=Vansh-Quant&theme=transparent&hide_border=true" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vansh-Quant&theme=github_dark" width="48%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vansh-Quant&theme=github_dark" width="48%" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=Vansh-Quant&theme=github-dark&hide_border=true" width="95%" />
 
 </div>
 
@@ -214,7 +218,7 @@ A multi-language development environment exploring compilers, runtimes, toolchai
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vansh-Quant&bg_color=00000000&color=58A6FF&line=2EA043&point=58A6FF&area=true&hide_border=true" width="95%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vansh-Quant&theme=github_dark" width="95%" />
 
 </div>
 
@@ -224,7 +228,7 @@ A multi-language development environment exploring compilers, runtimes, toolchai
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Vansh-Quant&theme=darkhub&no-frame=true&no-bg=true&margin-w=8" width="95%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vansh-Quant&theme=github_dark" width="95%" />
 
 </div>
 
@@ -236,6 +240,10 @@ A multi-language development environment exploring compilers, runtimes, toolchai
 
 [![GitHub](https://img.shields.io/badge/GitHub-Vansh--Quant-181717?style=for-the-badge&logo=github)](https://github.com/Vansh-Quant)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Vansh_Choudhary-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+
+<br/><br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Vansh-Quant&style=for-the-badge&color=0A66C2&label=PROFILE+VIEWS)
 
 </div>
 
