@@ -170,28 +170,51 @@ A multi-language development environment exploring compilers, runtimes, toolchai
 
 ---
 
-## 🎯 Current Focus
+<table>
+<tr>
+<td width="25%" align="center">
 
-- 🔹 Improving **DHARANI**
-- 🔹 Building quantitative trading infrastructure
-- 🔹 Developing LLM agent workflows
-- 🔹 Exploring local-first AI systems
-- 🔹 Building research and automation tools
-- 🔹 Experimenting with blockchain applications
+### ⚡ Current Focus
 
----
+Improving DHARANI  
+Building quantitative systems  
+Developing LLM workflows  
+Exploring local-first AI
 
-## 💭 My Philosophy
+</td>
 
-<div align="center">
+<td width="25%" align="center">
 
-> **Research deeply.**  
-> **Build practically.**  
-> **Test relentlessly.**  
-> **Measure honestly.**  
-> **Keep improving.**
+### 💭 My Philosophy
 
-</div>
+**Research deeply.**  
+**Build practically.**  
+**Test relentlessly.**  
+**Measure honestly.**
+
+</td>
+
+<td width="25%" align="center">
+
+### 🔗 Connect
+
+[GitHub](https://github.com/Vansh-Quant)  
+[LinkedIn](https://www.linkedin.com/)  
+Open to technical collaboration
+
+</td>
+
+<td width="25%" align="center">
+
+### 👁️ Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=Vansh-Quant&style=for-the-badge&color=0A66C2&label=VIEWS)
+
+Building in public.
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -218,32 +241,11 @@ A multi-language development environment exploring compilers, runtimes, toolchai
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vansh-Quant&theme=github_dark" width="95%" />
-
-</div>
-
----
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vansh-Quant&theme=github_dark" width="95%" />
-
-</div>
-
----
-
-## 🔗 Connect
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-Vansh--Quant-181717?style=for-the-badge&logo=github)](https://github.com/Vansh-Quant)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vansh_Choudhary-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-
-<br/><br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=Vansh-Quant&style=for-the-badge&color=0A66C2&label=PROFILE+VIEWS)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vansh-Quant/Vansh-Quant/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vansh-Quant/Vansh-Quant/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Vansh-Quant/Vansh-Quant/output/github-contribution-grid-snake.svg" width="95%">
+</picture>
 
 </div>
 
