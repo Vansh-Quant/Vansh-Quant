@@ -6,8 +6,6 @@
 
 </div>
 
----
-
 ## ⚡ What I Build
 
 <table>
