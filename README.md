@@ -205,37 +205,33 @@ Building in public.
 
 ---
 
-<div align="center">
+## 📊 GitHub Activity
 
-### 📊 GitHub Stats
-
-<table>
+<table width="100%">
 <tr>
-<td align="center" width="33%">
+<td width="33%" align="center">
 
 ### 196
 
-Total Contributions
+**Total Contributions**
 
 </td>
-<td align="center" width="33%">
+<td width="33%" align="center">
 
 ### 2
 
-Current Streak
+**Current Streak**
 
 </td>
-<td align="center" width="33%">
+<td width="33%" align="center">
 
 ### 6
 
-Longest Streak
+**Longest Streak**
 
 </td>
 </tr>
 </table>
-
-</div>
 
 ---
 
