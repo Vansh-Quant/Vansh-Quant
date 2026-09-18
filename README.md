@@ -2,20 +2,7 @@
 
 <div align="center">
 
-# VANSH CHOUDHARY
-
-### Quantitative Developer • Systems Builder • Algorithmic Trading
-
-Building **financial systems, quantitative tools, AI infrastructure, blockchain applications, and developer platforms.**
-
-<br/>
-
-[![GitHub](https://img.shields.io/badge/GitHub-Vansh--Quant-181717?style=for-the-badge&logo=github)](https://github.com/Vansh-Quant)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-
-<br/>
-
-**Research → Build → Test → Measure → Iterate**
+<img src="https://raw.githubusercontent.com/Vansh-Quant/Vansh-Quant/main/assets/profile-banner.svg" width="100%" alt="Vansh Choudhary profile banner">
 
 </div>
 
