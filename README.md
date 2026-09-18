@@ -35,9 +35,9 @@ Research workflows
 ### ⛓️ Blockchain
 
 Blockchain applications  
-Smart-contract systems  
+Smart contracts  
 Verification  
-Decentralized workflows
+Decentralized systems
 
 </td>
 <td width="25%" align="center">
