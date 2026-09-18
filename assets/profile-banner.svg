@@ -12,23 +12,23 @@
 <path d="M1055 187 L1062 165 L1069 187Z" fill="#020509"/>
 <path d="M1062 165 L1062 151" stroke="#020509" stroke-width="4"/>
 <rect x="26" y="38" width="3" height="72" rx="2" fill="#27e6b0"/>
-<text x="55" y="56" fill="#f4f7fa" font-family="Arial,Helvetica,sans-serif" font-size="31" font-weight="700" letter-spacing="6">VANSH CHOUDHARY</text>
-<text x="55" y="91" fill="#d6e0e8" font-family="Arial,Helvetica,sans-serif" font-size="17" letter-spacing="3">QUANTITATIVE DEVELOPER</text>
-<text x="55" y="114" fill="#d6e0e8" font-family="Arial,Helvetica,sans-serif" font-size="17" letter-spacing="3">SYSTEMS BUILDER</text>
-<text x="55" y="137" fill="#d6e0e8" font-family="Arial,Helvetica,sans-serif" font-size="17" letter-spacing="3">ALGORITHMIC TRADING</text>
-<text x="55" y="203" fill="#f0f5f8" font-family="Georgia,serif" font-size="18" font-style="italic">Research</text>
-<text x="136" y="203" fill="#26d7aa" font-family="Arial,sans-serif" font-size="22">→</text>
-<text x="166" y="203" fill="#f0f5f8" font-family="Georgia,serif" font-size="18" font-style="italic">Build</text>
-<text x="222" y="203" fill="#26d7aa" font-family="Arial,sans-serif" font-size="18">→</text>
-<text x="252" y="203" fill="#f0f5f8" font-family="Georgia,serif" font-size="18" font-style="italic">Test</text>
-<text x="305" y="203" fill="#26d7aa" font-family="Arial,sans-serif" font-size="18">→</text>
-<text x="336" y="203" fill="#f0f5f8" font-family="Georgia,serif" font-size="18" font-style="italic">Iterate</text>
-<text x="770" y="125" fill="#b9c8d3" font-family="Georgia,serif" font-size="17" font-style="italic">“Discipline compounds</text>
-<text x="770" y="145" fill="#b9c8d3" font-family="Georgia,serif" font-size="17" font-style="italic">what motivation starts.”</text>
-<rect x="1110" y="35" width="3" height="80" rx="2" fill="#27e6b0"/>
-<text x="1130" y="51" fill="#cbd7df" font-family="Arial,sans-serif" font-size="15" letter-spacing="2">FINANCE</text>
-<text x="1130" y="70" fill="#cbd7df" font-family="Arial,sans-serif" font-size="15" letter-spacing="2">TECHNOLOGY</text>
-<text x="1130" y="89" fill="#cbd7df" font-family="Arial,sans-serif" font-size="15" letter-spacing="2">AI SYSTEMS</text>
-<text x="1130" y="108" fill="#cbd7df" font-family="Arial,sans-serif" font-size="15" letter-spacing="2">BLOCKCHAIN</text>
-<text x="1130" y="127" fill="#cbd7df" font-family="Arial,sans-serif" font-size="15" letter-spacing="2">OPEN SOURCE</text>
+<text x="55" y="58" fill="#f4f7fa" font-family="Arial,Helvetica,sans-serif" font-size="29" font-weight="700" letter-spacing="5">VANSH CHOUDHARY</text>
+<text x="55" y="91" fill="#d6e0e8" font-family="Arial,Helvetica,sans-serif" font-size="14" letter-spacing="3">QUANTITATIVE DEVELOPER</text>
+<text x="55" y="114" fill="#d6e0e8" font-family="Arial,Helvetica,sans-serif" font-size="14" letter-spacing="3">SYSTEMS BUILDER</text>
+<text x="55" y="137" fill="#d6e0e8" font-family="Arial,Helvetica,sans-serif" font-size="14" letter-spacing="3">ALGORITHMIC TRADING</text>
+<text x="55" y="203" fill="#f0f5f8" font-family="Georgia,serif" font-size="15" font-style="italic">Research</text>
+<text x="132" y="203" fill="#26d7aa" font-family="Arial,sans-serif" font-size="17">→</text>
+<text x="158" y="203" fill="#f0f5f8" font-family="Georgia,serif" font-size="15" font-style="italic">Build</text>
+<text x="215" y="203" fill="#26d7aa" font-family="Arial,sans-serif" font-size="17">→</text>
+<text x="245" y="203" fill="#f0f5f8" font-family="Georgia,serif" font-size="15" font-style="italic">Test</text>
+<text x="298" y="203" fill="#26d7aa" font-family="Arial,sans-serif" font-size="17">→</text>
+<text x="328" y="203" fill="#f0f5f8" font-family="Georgia,serif" font-size="15" font-style="italic">Iterate</text>
+<text x="720" y="125" fill="#b9c8d3" font-family="Georgia,serif" font-size="14" font-style="italic">“Discipline compounds</text>
+<text x="720" y="145" fill="#b9c8d3" font-family="Georgia,serif" font-size="14" font-style="italic">what motivation starts.”</text>
+<rect x="1065" y="35" width="3" height="80" rx="2" fill="#27e6b0"/>
+<text x="1085" y="51" fill="#cbd7df" font-family="Arial,sans-serif" font-size="10" letter-spacing="2">FINANCE</text>
+<text x="1085" y="70" fill="#cbd7df" font-family="Arial,sans-serif" font-size="10" letter-spacing="2">TECHNOLOGY</text>
+<text x="1085" y="89" fill="#cbd7df" font-family="Arial,sans-serif" font-size="10" letter-spacing="2">AI SYSTEMS</text>
+<text x="1085" y="108" fill="#cbd7df" font-family="Arial,sans-serif" font-size="10" letter-spacing="2">BLOCKCHAIN</text>
+<text x="1085" y="127" fill="#cbd7df" font-family="Arial,sans-serif" font-size="10" letter-spacing="2">OPEN SOURCE</text>
 </svg>
