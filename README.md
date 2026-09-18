@@ -205,39 +205,6 @@ Building in public.
 
 ---
 
-## 📊 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vansh-Quant&theme=github_dark" width="95%" />
-
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vansh-Quant&theme=github_dark" width="48%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vansh-Quant&theme=github_dark" width="48%" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=Vansh-Quant&theme=github-dark&hide_border=true" width="95%" />
-
-</div>
-
----
-
-## 🟩 Contribution Activity
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vansh-Quant/Vansh-Quant/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vansh-Quant/Vansh-Quant/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Vansh-Quant/Vansh-Quant/output/github-contribution-grid-snake.svg" width="95%">
-</picture>
-
-</div>
-
----
-
 <div align="center">
 
 ### Always Building.
